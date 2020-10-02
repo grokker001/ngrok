@@ -7,8 +7,8 @@ import (
 	gometrics "github.com/rcrowley/go-metrics"
 	"io/ioutil"
 	"net/http"
-	"ngrok/conn"
-	"ngrok/log"
+	"github.com/grokker001/ngrok/src/ngrok/conn"
+	"github.com/grokker001/ngrok/src/ngrok/log"
 	"os"
 	"time"
 )

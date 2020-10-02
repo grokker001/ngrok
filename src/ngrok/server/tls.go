@@ -3,7 +3,7 @@ package server
 import (
 	"crypto/tls"
 	"io/ioutil"
-	"ngrok/server/assets"
+	"github.com/grokker001/ngrok/src/ngrok/server/assets"
 )
 
 func LoadTLSConfig(crtPath string, keyPath string) (tlsConfig *tls.Config, err error) {

@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net"
 	"net/url"
-	"ngrok/log"
+	"github.com/grokker001/ngrok/src/ngrok/log"
 	"os"
 	"os/user"
 	"path"

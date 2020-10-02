@@ -11,7 +11,7 @@ import (
 	"net"
 	"net/http"
 	"net/url"
-	"ngrok/log"
+	"github.com/grokker001/ngrok/src/ngrok/log"
 	"sync"
 )
 

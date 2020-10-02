@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ngrok/client"
+	"github.com/grokker001/ngrok/src/ngrok/client"
 )
 
 func main() {
